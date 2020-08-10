@@ -1,0 +1,6 @@
+{
+    "MONGO_CONNECTION": "mongodb://localhost:27017/todo",
+    "COLLECTION_NAMES": {
+        "TASK_COLLECTION": "task"
+    }
+}
